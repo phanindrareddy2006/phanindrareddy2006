@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=30000&color=A868CB&center=true&vCenter=true&width=700&lines=Hi+There!+I%27m+Donthireddy+Phanindra+Reddy+%F0%9F%91%8B;Full+Stack+Developer+%7C+Cybersecurity+Enthusiast+%7C+CS+Student;Turning+Code+Into+Creativity+%E2%9C%A8" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=6000&color=A868CB&center=true&vCenter=true&width=700&lines=Hi+There!+I%27m+Donthireddy+Phanindra+Reddy+%F0%9F%91%8B;Full+Stack+Developer+%7C+Cybersecurity+Enthusiast+%7C+CS+Student;Turning+Code+Into+Creativity+%E2%9C%A8" />
 </p>
 
 ---
