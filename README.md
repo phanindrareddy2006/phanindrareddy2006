@@ -1,6 +1,8 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=A868CB&center=true&vCenter=true&width=650&lines=Hi+There!+I'm+Donthireddy+Phanindra+Reddy+👋;Full-Stack+Developer+%7C+Cybersecurity+Enthusiast+%7C+CS+Student;Turning+Code+Into+Creativity+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=6000&color=A868CB&center=true&vCenter=true&width=650&lines= Hi+There!+I'm+Donthireddy+Phanindra+Reddy+👋;
+    Full-Stack+Developer+%7C+Cybersecurity+Enthusiast+%7C+CS+Student;
+    Turning+Code+Into+Creativity+✨" />
 </p>
 
 ---
