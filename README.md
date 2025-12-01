@@ -12,7 +12,7 @@
 💡 I build **smart, playful, and aesthetic** web experiences  
 💻 Passionate about **Web Development + Cybersecurity**  
 ⚡ I love blending **logic + design** to make fun & functional projects  
-📄 [Download My Resume](./CV/Phanindra-Resume.pdf)
+📄 <a href="./CV/Phanindra-Resume.pdf" target="_blank" rel="noreferrer">Download My Resume</a>
 
 ---
 
@@ -48,14 +48,14 @@
 
 # 🏆 Certifications  
 
-📂 (Place your PDFs inside `/certificates/` folder)
 
 | Certification | View Certificate |
-|--------------|-----------------|
-| **ACE – Aviatrix Certified Engineer** | [📄 View](./certificates/ace.pdf) |
-| **Junos Network Certified Associate** | [📄 View](./certificates/juniper.pdf) |
-| **Linguaskill Business English (Cambridge)** | [📄 View](./certificates/linguaskill.pdf) |
-| **Salesforce AI Associate** | [📄 View](./certificates/salseforce.pdf) |
+|--------------|------------------|
+| **ACE – Aviatrix Certified Engineer** | <a href="./certificates/ace.pdf" target="_blank" rel="noreferrer">📄 View</a> |
+| **Junos Network Certified Associate** | <a href="./certificates/juniper.pdf" target="_blank" rel="noreferrer">📄 View</a> |
+| **Linguaskill Business English (Cambridge)** | <a href="./certificates/linguaskill.pdf" target="_blank" rel="noreferrer">📄 View</a> |
+| **Salesforce AI Associate** | <a href="./certificates/salseforce.pdf" target="_blank" rel="noreferrer">📄 View</a> |
+
 
 ---
 
