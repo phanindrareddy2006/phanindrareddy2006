@@ -89,28 +89,19 @@ A cybersecurity project to **capture, log & analyze malicious attacks** in real-
 ### 🚗 **Car Rental System**  
 Full-stack rental platform with bookings, admin dashboard, and authentication.  
 Tech: **React · Node.js · Express · MongoDB**  
-🔗 https://github.com/phanindrareddy2006/CarRental-Project
+🔗 https://github.com/phanindrareddy2006
 
 ---
 
 ### 🏥 **Hospital Management System**  
 Doctor–Patient–Appointment workflow using **Java + MySQL**.  
-🔗 https://github.com/phanindrareddy2006/CarRental-Project
+🔗 https://github.com/phanindrareddy2006
 
 ---
 
 ### 💼 **Job Portal System**  
 Connects employers & candidates using **PHP · SQL**.  
-🔗 https://github.com/phanindrareddy2006/CarRental-Project
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=phanindrareddy2006&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanindrareddy2006&layout=compact&theme=tokyonight" />
-</p>
+🔗 https://github.com/phanindrareddy2006
 
 ---
 
