@@ -1,7 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=6000&color=A868CB&center=true&vCenter=true&width=1200&multiline=false&lines=Hi+There!+I%27m+Donthireddy+Phanindra+Reddy+%F0%9F%91%8B;Full+Stack+Developer+%7C+Cybersecurity+Enthusiast+%7C+CS+Student;Turning+Code+Into+Creativity+%E2%9C%A8" />
-
 </p>
 
 ---
@@ -12,6 +11,7 @@
 💡 I build **smart, playful, and aesthetic** web experiences  
 💻 Passionate about **Web Development + Cybersecurity**  
 ⚡ I love blending **logic + design** to make fun & functional projects  
+
 📄 <a href="./CV/Phanindra-Resume.pdf" target="_blank" rel="noreferrer">Download My Resume</a>
 
 ---
@@ -48,14 +48,33 @@
 
 # 🏆 Certifications  
 
+<!-- PURE HTML TABLE (so target=_blank works) -->
+<table>
+  <tr>
+    <th>Certification</th>
+    <th>View Certificate</th>
+  </tr>
 
-| Certification | View Certificate |
-|--------------|------------------|
-| **ACE – Aviatrix Certified Engineer** | <a href="./certificates/ace.pdf" target="_blank" rel="noreferrer">📄 View</a> |
-| **Junos Network Certified Associate** | <a href="./certificates/juniper.pdf" target="_blank" rel="noreferrer">📄 View</a> |
-| **Linguaskill Business English (Cambridge)** | <a href="./certificates/linguaskill.pdf" target="_blank" rel="noreferrer">📄 View</a> |
-| **Salesforce AI Associate** | <a href="./certificates/salseforce.pdf" target="_blank" rel="noreferrer">📄 View</a> |
+  <tr>
+    <td><b>ACE – Aviatrix Certified Engineer</b></td>
+    <td><a href="./certificates/ace.pdf" target="_blank" rel="noreferrer">📄 View</a></td>
+  </tr>
 
+  <tr>
+    <td><b>Junos Network Certified Associate</b></td>
+    <td><a href="./certificates/juniper.pdf" target="_blank" rel="noreferrer">📄 View</a></td>
+  </tr>
+
+  <tr>
+    <td><b>Linguaskill Business English (Cambridge)</b></td>
+    <td><a href="./certificates/linguaskill.pdf" target="_blank" rel="noreferrer">📄 View</a></td>
+  </tr>
+
+  <tr>
+    <td><b>Salesforce AI Associate</b></td>
+    <td><a href="./certificates/salseforce.pdf" target="_blank" rel="noreferrer">📄 View</a></td>
+  </tr>
+</table>
 
 ---
 
